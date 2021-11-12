@@ -1,0 +1,46 @@
+body{
+    font-family: "Gill Sans", sans-serif;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#image{
+    max-width: 250px;
+    max-height: 250px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align:center;
+}
+#img-div{
+    background-color: white;
+    margin: 0;
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 100px auto;
+}
+#tribute-info {
+   margin: auto;
+   padding: 15px;
+   font-size: 18px;
+   line-height: 1.8;
+}  
+#img-caption{
+    margin: 10px 0 5px 0;
+    text-align: center;
+}
+p{
+    font-style: italic;
+    text-align: center;
+}
+h3{
+    font-weight: bold;
+    display: block;
+    margin: 0;
+    text-align: center;
+}
